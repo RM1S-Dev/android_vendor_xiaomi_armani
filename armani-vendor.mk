@@ -169,7 +169,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/armani/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_1.fw \
     vendor/xiaomi/armani/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_6.fw \
     vendor/xiaomi/armani/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/xiaomi/armani/proprietary/vendor/lib/hw/camera.vendor.msm8226.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.msm8226.so \
+    vendor/xiaomi/armani/proprietary/vendor/lib/hw/camera.vendor.msm8226.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.msm8226.so \
     vendor/xiaomi/armani/proprietary/vendor/lib/libchromatix_imx135_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx135_liveshot.so \
     vendor/xiaomi/armani/proprietary/vendor/lib/libchromatix_imx214_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx214_liveshot.so \
     vendor/xiaomi/armani/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
